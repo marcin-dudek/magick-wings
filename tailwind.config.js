@@ -1,7 +1,7 @@
 import daisyui from 'daisyui';
 
 /** @type {import('tailwindcss').Config} */
-export default {
+const tailwind = {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
     extend: {}
@@ -18,3 +18,4 @@ export default {
     themeRoot: ':root' // The element that receives theme color CSS variables
   }
 };
+export default tailwind
