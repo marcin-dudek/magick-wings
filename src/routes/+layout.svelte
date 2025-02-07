@@ -37,7 +37,7 @@
 		</div>
 	</div>
 
-	<div class="max-md:w-full md:max-w-screen-xl mx-auto px-4 text-center flex-grow">
+	<div class="max-md:w-full md:max-w-(--breakpoint-xl) mx-auto px-4 text-center grow">
 		<slot />
 	</div>
 
