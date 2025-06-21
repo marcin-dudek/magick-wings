@@ -19,7 +19,6 @@
 		"@tailwindcss/postcss": "^4.1.10",
 		"@tailwindcss/typography": "^0.5.16",
 		"@types/eslint": "^9.6.1",
-		"cookie": "^1.0.2",
 		"daisyui": "^5.0.43",
 		"eslint": "^9.29.0",
 		"eslint-config-prettier": "^10.1.5",
